@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^([\w-_]+)/?$ ?wallet=$1 [L]
